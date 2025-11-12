@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+
+<head>
+
+<link href=".Portfolio C.V Css.code" rel="stylesheet" type="text/css"
+
+<meta charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title> Portfolio website</title>
+
+</head>
+
+<body>
+
+<h2> Front End Developer </h2>
+<p> Hi I'm Anesu Moyo From The UK </p>
+
+<h1> Front Web Developer Anesu </h1>
+
+<img src="images/IMG_0788.JPG" width = 30% height= 30% alt="picture of Anesuishe">
+
+<header>
+<nav>
+
+<ul>
+
+<li> <a href="#">home</a> </li>
+<li> <a href="#">services</a> </li>
+<li> <a href="#">portfolio</a> </li>
+<li> <a href"#">contact</a> </li>
+
+</ul>
+
+</nav>
+
+</header>
+
+<section id="home">
+
+<h1> Welcome to My Website</h1>
+
+<div class="main">
+
+<div class="detail">
+
+<p> Hi My name is Anesu and im a Front End Developer. I practice using
+the Languages Html and Css and also Javascript.
+
+<div class="social">
+
+<a href="https://github.com/bufferdred1"> github </a>
+<a href="https://www.instagram.com/"> instagram </a>
+<a href="https://www.linkedin.com/feed/"> linkedin </a>
+<a href="https://www.facebook.com/profile.php?id=100078676940853"> facebook </a>
+
+</div>
+
+</div>
+
+<div class="images">
+<img src="images/imoptical1xu.PNG" width="100%" alt="picture of Anesu>
+
+</div>
+
+</div>
+
+
+</section>
+
+<section id="services">
+
+<h2> My Coding languages </h2>
+
+<ol>
+
+<li> Html Experience in html </li>
+<li> CSS, Experiance in CSS </li>
+<li> JavaScript, Experiance in JavaScript </li>
+</ol>
+
+</section>
+
+<section id="portfolio">
+
+<h2> a little bit more info </h2>
+
+<p> I am a hard worker who is very patient and generous.
+I 'am eager to learn new skills and i have good communication
+skills. I work very well within the team and i am a problem solver.
+Very polite, and I have attention to detail. I also have good IT skills and good
+time management. Currently I am enrolled on a Front end Developer course. I have also
+completed a Level 3 in English and Mathematics, inclusive of a Merit award in Public
+Services. I have always worked in a fast environment where communication and teamwork 
+is key. </p> 
+
+</section>
+
+<section id="contact">
+
+</section>
